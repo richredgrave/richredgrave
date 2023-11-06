@@ -1,5 +1,5 @@
 ### Hi, I am Richard, a Cloud Solution Architect working at Microsoft. 
-I specialise in Azure Core Infrastructure: networking, compute, storage, but also dabble in Infrastructure as Code (Bicep, Terraform)
+I specialise in Azure Core Infrastructure: networking, compute, storage, AVD and ALZ, but also dabble in Infrastructure as Code (Bicep, Terraform)
 
 <!--
 **richredgrave/richredgrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
